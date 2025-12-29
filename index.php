@@ -1,4 +1,1 @@
-<?php
-echo "ok";
-echo "ok";
-echo "ramesh";
+<?php echo 'CI/CD working'; ?>
